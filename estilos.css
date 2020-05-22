@@ -1,3 +1,6 @@
+* {
+margin: 0;
+padding: 0; }
 body {
     background-image: url('https://d26lpennugtm8s.cloudfront.net/stores/335/332/products/papel-de-parede-jardim-branco-e-rosa-hana-lerner1-3dfba7248904b11b0d15409506373889-640-0.png');
     background-size: auto 100vh;
